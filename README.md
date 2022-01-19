@@ -54,7 +54,16 @@ PuTTY는 SSH, 텔넷, rlogin, raw TCP를 위한 클라이언트로 동작하는 
 
 ## J1C
 
-[J1C_User_Manual.pdf](https://github.com/leeeju/hardware/files/7894035/J1C_User_Manual.pdf)
+[J1C_User_Manual.pdf](https://github.com/leeeju/hardware/files/7894035/J1C_User_Manual.pdf)  <- 설명서 다운!!
 
 
-![j1c](https://user-images.githubusercontent.com/84003327/150063216-6655994a-3a70-4e4f-97b6-3847a3a71c51.PNG)
+![j1c](https://user-images.githubusercontent.com/84003327/150063216-6655994a-3a70-4e4f-97b6-3847a3a71c51.PNG)![j1](https://user-images.githubusercontent.com/84003327/150063574-291c55f5-e2a9-4cde-9c6c-3a0a6d4cb463.PNG)
+
+위와 같이 시리얼 모니터를 사용하여 추가 장비를 시리얼통신 연결을 할 수 있다
+
+## data sheet 사용법
+
+데이터 시트는 하드웨어를 하는 사람이라면 반드시 읽을 수 있어야 하는 것이다, 추가로 장착할 장비의 기본 제원 및 연결방법이 나와있는 문서로 통신 속도, RX TX와 같은 데이터 라인의 대한 설명이 적혀 있는 것을 확인 할 수 있다
+
+
+
