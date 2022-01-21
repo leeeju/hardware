@@ -2,9 +2,18 @@
 
 H/W 설계로는 기초적으로 시작할 때 Fritzing 또는 심화로 시직할 때는 STM32CubeIDE or STM32CubeMX 전장도를 구성할때는 Wondershare EdrawMax를 추천한다 전부 오픈소스로 사용이 가능하고 다양한 보드툴 및 기능을 제공하며 사용을 할 수 있다.
 
-전장 도식을 할떄 사용한 프로그램은  ```Wondershare EdrawMax``` 를 사용함 무료판(15일)도 양호 하게 사용 할 수 있는 장점이 있다
+## 전기/전자 흐름 알아보기 
+
+전장에서 가장 중요한 전기의 흐름을 직접 눈으로 시뮬레이션 하고 싶다면  http://www.falstad.com/circuit/circuitjs.html 를 추천한다, [Circuits]-[Blank Circuit]을 클릭해 빈 공간에 회로를 그려 회로를 구성하고 사이트 우측 상단에 있는 [Run/STOP] 버튼을 클릭해 시뮬레이션 및 스코프 화면도 확인할 수 있습니다. 아주 직관적인 UI로 웹사이트가 구성되어 있으므로 10분 정도 사용해보면, 회로 구성과 시뮬레이션 모두 손쉽게 작업할 수 있습니다.
+
+![캡처](https://user-images.githubusercontent.com/84003327/150451332-1d3bc487-4396-41ec-b08a-fcf212325a41.PNG)
+
+
+
 
 ## EdrawMax
+
+전장 도식을 할떄 사용한 프로그램은  ```Wondershare EdrawMax``` 를 사용함 무료판(15일)도 양호 하게 사용 할 수 있는 장점이 있다
 
 ![aaaa](https://user-images.githubusercontent.com/84003327/149474386-380fd59c-045c-4315-8855-f7e6b284d5f2.PNG)
 
