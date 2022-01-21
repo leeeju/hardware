@@ -2,7 +2,7 @@
 
 H/W 설계로는 기초적으로 시작할 때 Fritzing 또는 심화로 시직할 때는 STM32CubeIDE or STM32CubeMX 전장도를 구성할때는 Wondershare EdrawMax를 추천한다 전부 오픈소스로 사용이 가능하고 다양한 보드툴 및 기능을 제공하며 사용을 할 수 있다.
 
-전장 도식을 할떄 사용한 프로그램은  ```Wondershare EdrawMax``` 를 사용함 무료판도 양호 하게 사용 할 수 있는 장점이 있다
+전장 도식을 할떄 사용한 프로그램은  ```Wondershare EdrawMax``` 를 사용함 무료판(15일)도 양호 하게 사용 할 수 있는 장점이 있다
 
 ## EdrawMax
 
